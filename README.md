@@ -1,10 +1,10 @@
 <h1 align="center">ReactJS Project - Data Fetch</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/guilhermesantoss/reactjs-udemy-01?style=for-the-badge&color=darkblue" alt="Repository Size" />
-  <img src="https://img.shields.io/github/last-commit/guilhermesantoss/reactjs-udemy-01?style=for-the-badge&color=darkblue" alt="Last Commit" />
-  <img src="https://img.shields.io/github/languages/count/guilhermesantoss/reactjs-udemy-01?style=for-the-badge&color=darkblue" alt="Languages Used" />
-  <img src="https://img.shields.io/github/license/guilhermesantoss/reactjs-udemy-01?style=for-the-badge&color=darkblue" alt="License" />
+  <img src="https://img.shields.io/github/repo-size/guilhermesantoss/curso-udemy-01?style=for-the-badge&color=darkblue" alt="Repository Size" />
+  <img src="https://img.shields.io/github/last-commit/guilhermesantoss/curso-udemy-01?style=for-the-badge&color=darkblue" alt="Last Commit" />
+  <img src="https://img.shields.io/github/languages/count/guilhermesantoss/curso-udemy-01?style=for-the-badge&color=darkblue" alt="Languages Used" />
+  <img src="https://img.shields.io/github/license/guilhermesantoss/curso-udemy-01?style=for-the-badge&color=darkblue" alt="License" />
 </p>
 
 
