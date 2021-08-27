@@ -10,7 +10,7 @@
 
 ## Sobre o projeto
 
-Projeto de uma aplicação consumindo uma [fake API](https://jsonplaceholder.typicode.com), utilizando vários conceitos do React e Javascript.
+Projeto de uma aplicação consumindo uma [fake API](https://jsonplaceholder.typicode.com), utilizando vários conceitos do React e Javascript, e também implementando testes com JEST + React Testing Library.
 
 ## Executando o projeto
 
